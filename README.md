@@ -1,4 +1,4 @@
-# 🩺 Medical Document Intelligence Chatbot (LLaMA-2)
+# 🩺 MedQueryDoc AI – Intelligent Medical Document Assistant
 
 ## 📌 About the Project
 
