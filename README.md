@@ -10,7 +10,7 @@ This project demonstrates practical implementation of **LLMs + LangChain + Vecto
 
 ---
 
-## 🧠 Key Features !
+## 🧠 Key Features 
 
 * PDF-based medical document ingestion
 * Vector similarity search using Pinecone
