@@ -8,12 +8,6 @@
 ![Flask](https://img.shields.io/badge/Flask-Web%20UI-black?logo=flask)
 ![License](https://img.shields.io/badge/License-GPLv3-green)
 
-<!-- 👇 REPLACE THIS LINE: drag your demo GIF or screenshot into the GitHub editor and it will upload automatically -->
-![MedQueryDoc AI demo](https://github.com/user-attachments/assets/YOUR-DEMO-GIF-HERE)
-
-> ⚠️ **For educational purposes only. This is not medical advice.**
-
----
 
 ## 📌 About the Project
 
