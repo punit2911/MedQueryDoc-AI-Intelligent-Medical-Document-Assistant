@@ -67,8 +67,7 @@ Follow the steps below to set up and run the project locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Medical-Chatbot-using-Llama-2.git
-cd Medical-Chatbot-using-Llama-2
+git clone https://github.com/<your-username>/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant.git
 ```
 
 ---
