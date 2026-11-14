@@ -7,8 +7,6 @@
 
 [![Watch the demo on YouTube](assets/social-preview.png)](https://youtu.be/5G2vRp-xi8w)
 
-▶️ **Click the image above to watch the demo video**
-
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C)
 ![Flask](https://img.shields.io/badge/Flask-Web_UI-000000?logo=flask&logoColor=white)
@@ -27,14 +25,6 @@ This project is an AI-powered **medical document question-answering system** bui
 The system works by loading and splitting PDF documents into smaller chunks, generating vector embeddings using a Hugging Face embedding model, and storing them in **Pinecone**, a scalable vector database. During inference, user queries are matched against relevant document chunks using similarity search, and responses are generated using **LLaMA-2** through a retrieval-augmented generation (RAG) pipeline.
 
 This project demonstrates practical implementation of **LLMs + LangChain + Vector Databases** for real-world AI applications.
-
----
-
-## 🎬 Demo
-
-[![MedQueryDoc AI Demo Video](assets/social-preview.png)](https://youtu.be/5G2vRp-xi8w)
-
-> 📺 Watch the full walkthrough on YouTube: **https://youtu.be/5G2vRp-xi8w**
 
 ---
 
@@ -239,7 +229,5 @@ Special thanks to the open-source community for enabling practical AI innovation
 <div align="center">
 
 **If you found this project useful, please ⭐ star the repo!**
-
-[▶️ Watch the Demo](https://youtu.be/5G2vRp-xi8w)
 
 </div>
